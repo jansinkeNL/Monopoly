@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nTblpQS8tC99SoSuW4A1bpj/v5QiwY3bfy/XlOScSueheuKeY2CEFvpZd8O6V1t5xteWpo1PHz0YeU5NphhSWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marith\\source\\repos\\SignalRChat\\SignalRChat\\SignalRChat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marith\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.12\\microsoft.netcore.app.runtime.win-x64.3.1.12.nupkg.sha512",
+    "C:\\Users\\Marith\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.12\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.12.nupkg.sha512",
+    "C:\\Users\\Marith\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.12\\microsoft.aspnetcore.app.runtime.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
